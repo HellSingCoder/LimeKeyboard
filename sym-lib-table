@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/footprints/keebio.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard-rescue.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard-cache")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard-cache.lib")(options "")(descr ""))
+  (lib (name "SofleKeyboard")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard.lib")(options "")(descr ""))
+)
