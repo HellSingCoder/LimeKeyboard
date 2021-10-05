@@ -2,7 +2,7 @@
 
 ![Lime Keyboard](media/lime_keyboard.jpeg)
 
-Lime is 6×4+6 keys column-staggered split keyboard with encoder and joystick support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd), [Helix](https://github.com/MakotoKurauchi/helix) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards. This board features a reversible PCB, OLEDs, Underglow and Bluetooth support. The PCB has holes for floating or screwed mounts but can be also mounted with a gasket.
+Lime is a 6×4+6 keys column-staggered split keyboard with encoder and joystick support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd), [Helix](https://github.com/MakotoKurauchi/helix) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards. This board features a reversible PCB, OLEDs, Underglow and Bluetooth support. The PCB has holes for floating or screwed mounts but can be also mounted with a gasket.
 
 The Lime keyboard was created by [HellTM](https://github.com/HellSingCoder) with the help of the QMK and custom keyboard community.
 
